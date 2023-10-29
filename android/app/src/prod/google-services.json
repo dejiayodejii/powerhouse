@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "246552184969",
+    "project_id": "powerhouse-55647",
+    "storage_bucket": "powerhouse-55647.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246552184969:android:d0eb2ce6cd77445ce2de58",
+        "android_client_info": {
+          "package_name": "com.powerhouse.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246552184969-tv9d2o5ugidpcceiph4h4v1btgg6rscl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.powerhouse.app",
+            "certificate_hash": "7738e6cd65ee9817ad0ac4f8efc4afba000f0bf5"
+          }
+        },
+        {
+          "client_id": "246552184969-jlac02281uor08evmepb30t21714r7pl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnQwaoshbtz_JuWiyB6LOohdyAfqbgDZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246552184969-jlac02281uor08evmepb30t21714r7pl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

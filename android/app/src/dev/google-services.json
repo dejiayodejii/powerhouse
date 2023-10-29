@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "162376616120",
+    "project_id": "powerhouse-c73ed",
+    "storage_bucket": "powerhouse-c73ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162376616120:android:d55c1f615921e163c3cc4d",
+        "android_client_info": {
+          "package_name": "com.powerhouse.app.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162376616120-us4n2lpqf7j8puo0i74ggie6cvhrj3ao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf-6Qsj32PDCZ_qHneAxtaQyhjZ4NShC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162376616120-us4n2lpqf7j8puo0i74ggie6cvhrj3ao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
