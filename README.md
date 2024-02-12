@@ -25,9 +25,7 @@ flutter run
 
 
 ### Screenshots 📷
-![1](unnamed (6).webp)
-![screenshot3](https://github.com/dejiayodejii/powerhouse/assets/91215003/3ecfb2ef-9dd7-4e6c-a8a7-f2914597c414)
-![screenshot1](https://github.com/dejiayodejii/powerhouse/assets/91215003/198edda3-ea7a-4671-89d9-ff736f9570ec)
-![screenshot2](https://github.com/dejiayodejii/powerhouse/assets/91215003/a6370d58-fc8f-4c38-a90a-bc9f0cca009d)
-
-![screenshot4](https://github.com/dejiayodejii/powerhouse/assets/91215003/e429b710-a3ea-475d-8eef-43dccaeb4955)
+![](https://github.com/dejiayodejii/powerhouse/assets/screenshot3.jpg)
+![](https://github.com/dejiayodejii/powerhouse/assets/screenshot1.jpg)
+![](https://github.com/dejiayodejii/powerhouse/assets/screenshot2.jpg)
+![](https://github.com/dejiayodejii/powerhouse/assets/screenshot4.jpg)
