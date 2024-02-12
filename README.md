@@ -6,8 +6,9 @@ Powerhouse is digital product that improves the accessibility to companionship, 
 ## Prerequisites 🍳
 
 You'll need
-
-- Flutter and Dart installed
+- Any Operating System (ie. MacOS X, Linux, Windows)
+- Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
+- A little knowledge of Dart and Flutter
 
 ## Building the app 🏗️
 
